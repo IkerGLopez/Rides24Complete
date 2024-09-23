@@ -299,6 +299,10 @@ public class CreateRideBDWhiteTest {
 		   
 	@Test
 	public void test6() {
+<<<<<<< HEAD
 		//IKER IDIOTA GORDO Y DEL CELTA
+=======
+		//HOLAAAS h
+>>>>>>> branch 'master' of https://github.com/IkerGLopez/Rides24Complete
 	}
 }
