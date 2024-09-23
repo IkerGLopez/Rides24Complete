@@ -300,5 +300,6 @@ public class CreateRideBDWhiteTest {
 	@Test
 	public void test6() {
 		//HOLAA
+		// YA MEJODRERIA DEL CETLA
 	}
 }
